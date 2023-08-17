@@ -1,3 +1,5 @@
 User-agent: *
 Allow: /
 Sitemap: https://itcode.dev/sitemap-index.xml
+
+#DaumWebMasterTool:cc563869a78049d264b15d08fce50db5f416239eef99cb0c41e569aec6df9c97:8q1f1ZczLOqwpP+iLmwBsA==
