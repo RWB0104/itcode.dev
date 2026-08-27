@@ -1,252 +1,254 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
-  <copyright>Copyright ⓒ RWB 2021.05</copyright>
-  <description>The π-th Alpaca's Rowdy Dev Lab</description>
-  <generator>The π-th Alpaca's Dev Lab</generator>
-  <language>en-US</language>
-  <lastBuildDate>Wed, 26 Aug 2026 16:52:59 GMT</lastBuildDate>
-  <link>https://itcode.dev/en</link>
-  <managingEditor>psj2716@gmail.com</managingEditor>
-  <pubDate>Sat, 26 Jun 2021 23:36:57 GMT</pubDate>
-  <title>The π-th Alpaca's Dev Lab</title>
-  <webMaster>psj2716@gmail.com</webMaster>
-  <item>
+  <channel>
+    <copyright>Copyright ⓒ RWB 2021.05</copyright>
     <description>The π-th Alpaca's Rowdy Dev Lab</description>
-    <guid isPermaLink="true">https://itcode.dev/en</guid>
+    <generator>The π-th Alpaca's Dev Lab</generator>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 27 Aug 2026 01:23:22 GMT</lastBuildDate>
     <link>https://itcode.dev/en</link>
-    <pubDate>Wed, 26 Aug 2026 16:52:59 GMT</pubDate>
-    <title>Home</title>
-  </item>
-  <item>
-    <description>💻🦙 Tinkering with something...</description>
-    <guid isPermaLink="true">https://itcode.dev/en/projects</guid>
-    <link>https://itcode.dev/en/projects</link>
-    <pubDate>Wed, 26 Aug 2026 16:52:59 GMT</pubDate>
-    <title>Projects</title>
-  </item>
-  <item>
-    <description>💝🦙 Excitedly reading...</description>
-    <guid isPermaLink="true">https://itcode.dev/en/guestbook</guid>
-    <link>https://itcode.dev/en/guestbook</link>
-    <pubDate>Wed, 26 Aug 2026 16:52:59 GMT</pubDate>
-    <title>Guestbook</title>
-  </item>
-  <item>
-    <category>JavaScript</category>
-    <category>Node.js</category>
-    <description>itcode 마크다운 에디터</description>
-    <guid isPermaLink="true">https://itcode.dev/en/0021</guid>
-    <link>https://itcode.dev/en/0021</link>
-    <pubDate>Wed, 06 Sep 2023 00:00:00 GMT</pubDate>
-    <title>piedit</title>
-  </item>
-  <item>
-    <category>JavaScript</category>
-    <category>Node.js</category>
-    <description>나만의 ESLint 설정 플러그인 프로젝트</description>
-    <guid isPermaLink="true">https://itcode.dev/en/0020</guid>
-    <link>https://itcode.dev/en/0020</link>
-    <pubDate>Wed, 12 Jul 2023 15:00:00 GMT</pubDate>
-    <title>@itcode-dev/eslint-config</title>
-  </item>
-  <item>
-    <category>TypeScript</category>
-    <category>SCSS</category>
-    <category>React</category>
-    <category>Next.js</category>
-    <category>Material UI</category>
-    <description>귀찮아서 그냥 내가 만든 JADE 연동 서비스 사내 인사 시스템 확장 프로젝트</description>
-    <guid isPermaLink="true">https://itcode.dev/en/0019</guid>
-    <link>https://itcode.dev/en/0019</link>
-    <pubDate>Sat, 01 Oct 2022 15:00:00 GMT</pubDate>
-    <title>JADER</title>
-  </item>
-  <item>
-    <category>TypeScript</category>
-    <category>React</category>
-    <description>React 컴포넌트 라이브러리 프로젝트</description>
-    <guid isPermaLink="true">https://itcode.dev/en/0018</guid>
-    <link>https://itcode.dev/en/0018</link>
-    <pubDate>Sun, 05 Jun 2022 15:00:00 GMT</pubDate>
-    <title>react-components-library-starter</title>
-  </item>
-  <item>
-    <category>TypeScript</category>
-    <category>SCSS</category>
-    <category>React</category>
-    <category>GeoServer</category>
-    <description>OpenLayers로 구현할만한 예제 프로젝트</description>
-    <guid isPermaLink="true">https://itcode.dev/en/0017</guid>
-    <link>https://itcode.dev/en/0017</link>
-    <pubDate>Tue, 15 Feb 2022 15:00:00 GMT</pubDate>
-    <title>OpenLayers Box</title>
-  </item>
-  <item>
-    <category>TypeScript</category>
-    <category>SCSS</category>
-    <category>React</category>
-    <category>JAVA</category>
-    <category>Gradle</category>
-    <description>카카오스타일 과제 전형 프로젝트</description>
-    <guid isPermaLink="true">https://itcode.dev/en/0016</guid>
-    <link>https://itcode.dev/en/0016</link>
-    <pubDate>Wed, 22 Dec 2021 15:00:00 GMT</pubDate>
-    <title>카카오스타일 연차 신청 서비스</title>
-  </item>
-  <item>
-    <category>JAVA</category>
-    <category>Gradle</category>
-    <description>JAVA 오픈소스 라이브러리 만들기 for Dummy</description>
-    <guid isPermaLink="true">https://itcode.dev/en/0015</guid>
-    <link>https://itcode.dev/en/0015</link>
-    <pubDate>Mon, 29 Nov 2021 15:00:00 GMT</pubDate>
-    <title>Upbit API for JAVA</title>
-  </item>
-  <item>
-    <category>TypeScript</category>
-    <category>SCSS</category>
-    <category>React</category>
-    <category>Gatsby.js</category>
-    <category>Material UI</category>
-    <description>알파카는 뭔가 자랑할 걸 가지러 간 듯 하다. .....와장창!</description>
-    <guid isPermaLink="true">https://itcode.dev/en/0014</guid>
-    <link>https://itcode.dev/en/0014</link>
-    <pubDate>Tue, 23 Nov 2021 15:00:00 GMT</pubDate>
-    <title>𝝅번째 알파카의 와장창창 개발 연구소</title>
-  </item>
-  <item>
-    <category>TypeScript</category>
-    <category>SCSS</category>
-    <category>React</category>
-    <category>Next.js</category>
-    <description>알파카는 무엇인가 끄적끄적 쓰는 듯 하다.</description>
-    <guid isPermaLink="true">https://itcode.dev/en/0013</guid>
-    <link>https://itcode.dev/en/0013</link>
-    <pubDate>Sun, 09 May 2021 15:00:00 GMT</pubDate>
-    <title>𝝅번째 알파카의 우당탕탕 개발 낙서장</title>
-  </item>
-  <item>
-    <category>HTML</category>
-    <category>JavaScript</category>
-    <category>CSS</category>
-    <category>JAVA</category>
-    <category>Gradle</category>
-    <description>OAuth2 연구를 위한 프로젝트</description>
-    <guid isPermaLink="true">https://itcode.dev/en/0012</guid>
-    <link>https://itcode.dev/en/0012</link>
-    <pubDate>Sun, 16 Jun 2019 00:00:00 GMT</pubDate>
-    <title>OAuth2 프로젝트</title>
-  </item>
-  <item>
-    <category>TypeScript</category>
-    <category>SCSS</category>
-    <category>React</category>
-    <category>JAVA</category>
-    <category>Gradle</category>
-    <description>도로명주소 업무의 월간 보고서 작성을 간소화하기 위한 웹 서비스 첫 React 서비스</description>
-    <guid isPermaLink="true">https://itcode.dev/en/0011</guid>
-    <link>https://itcode.dev/en/0011</link>
-    <pubDate>Tue, 02 Nov 2021 15:00:00 GMT</pubDate>
-    <title>도로명주소 업무 시스템</title>
-  </item>
-  <item>
-    <category>JAVA</category>
-    <category>Android</category>
-    <description>사내 솔루션 IntraMap을 활용한 커뮤니티 매핑 애플리케이션 서비스</description>
-    <guid isPermaLink="true">https://itcode.dev/en/0010</guid>
-    <link>https://itcode.dev/en/0010</link>
-    <pubDate>Thu, 05 Mar 2020 00:00:00 GMT</pubDate>
-    <title>모두의지도 애플리케이션</title>
-  </item>
-  <item>
-    <category>HTML</category>
-    <category>JavaScript</category>
-    <category>CSS</category>
-    <category>JAVA</category>
-    <category>JSP</category>
-    <category>Maven</category>
-    <description>사내 솔루션 IntraMap을 활용한 커뮤니티 매핑 웹 서비스</description>
-    <guid isPermaLink="true">https://itcode.dev/en/0009</guid>
-    <link>https://itcode.dev/en/0009</link>
-    <pubDate>Tue, 02 Nov 2021 15:00:00 GMT</pubDate>
-    <title>모두의지도</title>
-  </item>
-  <item>
-    <category>HTML</category>
-    <category>JavaScript</category>
-    <category>CSS</category>
-    <category>JAVA</category>
-    <category>JSP</category>
-    <category>Maven</category>
-    <description>사내 솔루션 IntraMap을 활용한 코로나 동선 지도</description>
-    <guid isPermaLink="true">https://itcode.dev/en/0008</guid>
-    <link>https://itcode.dev/en/0008</link>
-    <pubDate>Fri, 21 May 2021 00:00:00 GMT</pubDate>
-    <title>코로나패스</title>
-  </item>
-  <item>
-    <category>HTML</category>
-    <category>JavaScript</category>
-    <category>CSS</category>
-    <category>Node.js</category>
-    <category>Electron</category>
-    <description>Upbit 자동 매매 프로그램</description>
-    <guid isPermaLink="true">https://itcode.dev/en/0007</guid>
-    <link>https://itcode.dev/en/0007</link>
-    <pubDate>Thu, 05 Mar 2020 00:00:00 GMT</pubDate>
-    <title>UpTrader</title>
-  </item>
-  <item>
-    <category>HTML</category>
-    <category>JavaScript</category>
-    <category>CSS</category>
-    <category>Node.js</category>
-    <category>Electron</category>
-    <description>Upbit 공시 확인 매크로</description>
-    <guid isPermaLink="true">https://itcode.dev/en/0006</guid>
-    <link>https://itcode.dev/en/0006</link>
-    <pubDate>Sat, 20 Mar 2021 15:00:00 GMT</pubDate>
-    <title>UpChecker</title>
-  </item>
-  <item>
-    <category>C#</category>
-    <description>코레일 자리 확인 매크로 Follow the cancelled Trail</description>
-    <guid isPermaLink="true">https://itcode.dev/en/0005</guid>
-    <link>https://itcode.dev/en/0005</link>
-    <pubDate>Mon, 21 Sep 2020 00:00:00 GMT</pubDate>
-    <title>Railroad</title>
-  </item>
-  <item>
-    <category>C#</category>
-    <category>JAVA</category>
-    <description>2020년. 코로나의 포화 속에서, 자격증 응시 자리를 잡기 위한 사투. 상공회의소 자격증 자리 확인 매크로</description>
-    <guid isPermaLink="true">https://itcode.dev/en/0004</guid>
-    <link>https://itcode.dev/en/0004</link>
-    <pubDate>Thu, 05 Mar 2020 00:00:00 GMT</pubDate>
-    <title>KorCham</title>
-  </item>
-  <item>
-    <category>C#</category>
-    <description>일일업무 보내기 귀찮아서 만든 일일업무 보고서 자동화 프로그램 귀찮아서 움직인다는 이 아이러니함.</description>
-    <guid isPermaLink="true">https://itcode.dev/en/0003</guid>
-    <link>https://itcode.dev/en/0003</link>
-    <pubDate>Sun, 16 Jun 2019 00:00:00 GMT</pubDate>
-    <title>EasyReport</title>
-  </item>
-  <item>
-    <category>JAVA</category>
-    <description>얼떨결에 맡아버린 프로젝트</description>
-    <guid isPermaLink="true">https://itcode.dev/en/0002</guid>
-    <link>https://itcode.dev/en/0002</link>
-    <pubDate>Thu, 11 Jul 2019 00:00:00 GMT</pubDate>
-    <title>KInstaller</title>
-  </item>
-  <item>
-    <category>C#</category>
-    <description>생애 첫 프로젝트</description>
-    <guid isPermaLink="true">https://itcode.dev/en/0001</guid>
-    <link>https://itcode.dev/en/0001</link>
-    <pubDate>Sun, 16 Jun 2019 00:00:00 GMT</pubDate>
-    <title>KInstallPacker</title>
-  </item>
+    <managingEditor>psj2716@gmail.com</managingEditor>
+    <pubDate>Sat, 26 Jun 2021 23:36:57 GMT</pubDate>
+    <title>The π-th Alpaca's Dev Lab</title>
+    <webMaster>psj2716@gmail.com</webMaster>
+    <item>
+      <description>The π-th Alpaca's Rowdy Dev Lab</description>
+      <guid isPermaLink="true">https://itcode.dev/en</guid>
+      <link>https://itcode.dev/en</link>
+      <pubDate>Thu, 27 Aug 2026 01:23:22 GMT</pubDate>
+      <title>Home</title>
+    </item>
+    <item>
+      <description>💻🦙 Tinkering with something...</description>
+      <guid isPermaLink="true">https://itcode.dev/en/projects</guid>
+      <link>https://itcode.dev/en/projects</link>
+      <pubDate>Thu, 27 Aug 2026 01:23:22 GMT</pubDate>
+      <title>Projects</title>
+    </item>
+    <item>
+      <description>💝🦙 Excitedly reading...</description>
+      <guid isPermaLink="true">https://itcode.dev/en/guestbook</guid>
+      <link>https://itcode.dev/en/guestbook</link>
+      <pubDate>Thu, 27 Aug 2026 01:23:22 GMT</pubDate>
+      <title>Guestbook</title>
+    </item>
+    <item>
+      <category>JavaScript</category>
+      <category>Node.js</category>
+      <description>itcode 마크다운 에디터</description>
+      <guid isPermaLink="true">https://itcode.dev/en/0021</guid>
+      <link>https://itcode.dev/en/0021</link>
+      <pubDate>Wed, 06 Sep 2023 00:00:00 GMT</pubDate>
+      <title>piedit</title>
+    </item>
+    <item>
+      <category>JavaScript</category>
+      <category>Node.js</category>
+      <description>나만의 ESLint 설정 플러그인 프로젝트</description>
+      <guid isPermaLink="true">https://itcode.dev/en/0020</guid>
+      <link>https://itcode.dev/en/0020</link>
+      <pubDate>Wed, 12 Jul 2023 15:00:00 GMT</pubDate>
+      <title>@itcode-dev/eslint-config</title>
+    </item>
+    <item>
+      <category>TypeScript</category>
+      <category>SCSS</category>
+      <category>React</category>
+      <category>Next.js</category>
+      <category>Material UI</category>
+      <description>귀찮아서 그냥 내가 만든 JADE 연동 서비스 사내 인사 시스템 확장 프로젝트</description>
+      <guid isPermaLink="true">https://itcode.dev/en/0019</guid>
+      <link>https://itcode.dev/en/0019</link>
+      <pubDate>Sat, 01 Oct 2022 15:00:00 GMT</pubDate>
+      <title>JADER</title>
+    </item>
+    <item>
+      <category>TypeScript</category>
+      <category>React</category>
+      <description>React 컴포넌트 라이브러리 프로젝트</description>
+      <guid isPermaLink="true">https://itcode.dev/en/0018</guid>
+      <link>https://itcode.dev/en/0018</link>
+      <pubDate>Sun, 05 Jun 2022 15:00:00 GMT</pubDate>
+      <title>react-components-library-starter</title>
+    </item>
+    <item>
+      <category>TypeScript</category>
+      <category>SCSS</category>
+      <category>React</category>
+      <category>GeoServer</category>
+      <description>OpenLayers로 구현할만한 예제 프로젝트</description>
+      <guid isPermaLink="true">https://itcode.dev/en/0017</guid>
+      <link>https://itcode.dev/en/0017</link>
+      <pubDate>Tue, 15 Feb 2022 15:00:00 GMT</pubDate>
+      <title>OpenLayers Box</title>
+    </item>
+    <item>
+      <category>TypeScript</category>
+      <category>SCSS</category>
+      <category>React</category>
+      <category>JAVA</category>
+      <category>Gradle</category>
+      <description>카카오스타일 과제 전형 프로젝트</description>
+      <guid isPermaLink="true">https://itcode.dev/en/0016</guid>
+      <link>https://itcode.dev/en/0016</link>
+      <pubDate>Wed, 22 Dec 2021 15:00:00 GMT</pubDate>
+      <title>카카오스타일 연차 신청 서비스</title>
+    </item>
+    <item>
+      <category>JAVA</category>
+      <category>Gradle</category>
+      <description>JAVA 오픈소스 라이브러리 만들기 for Dummy</description>
+      <guid isPermaLink="true">https://itcode.dev/en/0015</guid>
+      <link>https://itcode.dev/en/0015</link>
+      <pubDate>Mon, 29 Nov 2021 15:00:00 GMT</pubDate>
+      <title>Upbit API for JAVA</title>
+    </item>
+    <item>
+      <category>TypeScript</category>
+      <category>SCSS</category>
+      <category>React</category>
+      <category>Gatsby.js</category>
+      <category>Material UI</category>
+      <description>알파카는 뭔가 자랑할 걸 가지러 간 듯 하다. .....와장창!</description>
+      <guid isPermaLink="true">https://itcode.dev/en/0014</guid>
+      <link>https://itcode.dev/en/0014</link>
+      <pubDate>Tue, 23 Nov 2021 15:00:00 GMT</pubDate>
+      <title>𝝅번째 알파카의 와장창창 개발 연구소</title>
+    </item>
+    <item>
+      <category>TypeScript</category>
+      <category>SCSS</category>
+      <category>React</category>
+      <category>Next.js</category>
+      <description>알파카는 무엇인가 끄적끄적 쓰는 듯 하다.</description>
+      <guid isPermaLink="true">https://itcode.dev/en/0013</guid>
+      <link>https://itcode.dev/en/0013</link>
+      <pubDate>Sun, 09 May 2021 15:00:00 GMT</pubDate>
+      <title>𝝅번째 알파카의 우당탕탕 개발 낙서장</title>
+    </item>
+    <item>
+      <category>HTML</category>
+      <category>JavaScript</category>
+      <category>CSS</category>
+      <category>JAVA</category>
+      <category>Gradle</category>
+      <description>OAuth2 연구를 위한 프로젝트</description>
+      <guid isPermaLink="true">https://itcode.dev/en/0012</guid>
+      <link>https://itcode.dev/en/0012</link>
+      <pubDate>Sun, 16 Jun 2019 00:00:00 GMT</pubDate>
+      <title>OAuth2 프로젝트</title>
+    </item>
+    <item>
+      <category>TypeScript</category>
+      <category>SCSS</category>
+      <category>React</category>
+      <category>JAVA</category>
+      <category>Gradle</category>
+      <description>도로명주소 업무의 월간 보고서 작성을 간소화하기 위한 웹 서비스 첫 React 서비스</description>
+      <guid isPermaLink="true">https://itcode.dev/en/0011</guid>
+      <link>https://itcode.dev/en/0011</link>
+      <pubDate>Tue, 02 Nov 2021 15:00:00 GMT</pubDate>
+      <title>도로명주소 업무 시스템</title>
+    </item>
+    <item>
+      <category>JAVA</category>
+      <category>Android</category>
+      <description>사내 솔루션 IntraMap을 활용한 커뮤니티 매핑 애플리케이션 서비스</description>
+      <guid isPermaLink="true">https://itcode.dev/en/0010</guid>
+      <link>https://itcode.dev/en/0010</link>
+      <pubDate>Thu, 05 Mar 2020 00:00:00 GMT</pubDate>
+      <title>모두의지도 애플리케이션</title>
+    </item>
+    <item>
+      <category>HTML</category>
+      <category>JavaScript</category>
+      <category>CSS</category>
+      <category>JAVA</category>
+      <category>JSP</category>
+      <category>Maven</category>
+      <description>사내 솔루션 IntraMap을 활용한 커뮤니티 매핑 웹 서비스</description>
+      <guid isPermaLink="true">https://itcode.dev/en/0009</guid>
+      <link>https://itcode.dev/en/0009</link>
+      <pubDate>Tue, 02 Nov 2021 15:00:00 GMT</pubDate>
+      <title>모두의지도</title>
+    </item>
+    <item>
+      <category>HTML</category>
+      <category>JavaScript</category>
+      <category>CSS</category>
+      <category>JAVA</category>
+      <category>JSP</category>
+      <category>Maven</category>
+      <description>사내 솔루션 IntraMap을 활용한 코로나 동선 지도</description>
+      <guid isPermaLink="true">https://itcode.dev/en/0008</guid>
+      <link>https://itcode.dev/en/0008</link>
+      <pubDate>Fri, 21 May 2021 00:00:00 GMT</pubDate>
+      <title>코로나패스</title>
+    </item>
+    <item>
+      <category>HTML</category>
+      <category>JavaScript</category>
+      <category>CSS</category>
+      <category>Node.js</category>
+      <category>Electron</category>
+      <description>Upbit 자동 매매 프로그램</description>
+      <guid isPermaLink="true">https://itcode.dev/en/0007</guid>
+      <link>https://itcode.dev/en/0007</link>
+      <pubDate>Thu, 05 Mar 2020 00:00:00 GMT</pubDate>
+      <title>UpTrader</title>
+    </item>
+    <item>
+      <category>HTML</category>
+      <category>JavaScript</category>
+      <category>CSS</category>
+      <category>Node.js</category>
+      <category>Electron</category>
+      <description>Upbit 공시 확인 매크로</description>
+      <guid isPermaLink="true">https://itcode.dev/en/0006</guid>
+      <link>https://itcode.dev/en/0006</link>
+      <pubDate>Sat, 20 Mar 2021 15:00:00 GMT</pubDate>
+      <title>UpChecker</title>
+    </item>
+    <item>
+      <category>C#</category>
+      <description>코레일 자리 확인 매크로 Follow the cancelled Trail</description>
+      <guid isPermaLink="true">https://itcode.dev/en/0005</guid>
+      <link>https://itcode.dev/en/0005</link>
+      <pubDate>Mon, 21 Sep 2020 00:00:00 GMT</pubDate>
+      <title>Railroad</title>
+    </item>
+    <item>
+      <category>C#</category>
+      <category>JAVA</category>
+      <description>2020년. 코로나의 포화 속에서, 자격증 응시 자리를 잡기 위한 사투. 상공회의소 자격증 자리 확인 매크로</description>
+      <guid isPermaLink="true">https://itcode.dev/en/0004</guid>
+      <link>https://itcode.dev/en/0004</link>
+      <pubDate>Thu, 05 Mar 2020 00:00:00 GMT</pubDate>
+      <title>KorCham</title>
+    </item>
+    <item>
+      <category>C#</category>
+      <description>일일업무 보내기 귀찮아서 만든 일일업무 보고서 자동화 프로그램 귀찮아서 움직인다는 이 아이러니함.</description>
+      <guid isPermaLink="true">https://itcode.dev/en/0003</guid>
+      <link>https://itcode.dev/en/0003</link>
+      <pubDate>Sun, 16 Jun 2019 00:00:00 GMT</pubDate>
+      <title>EasyReport</title>
+    </item>
+    <item>
+      <category>JAVA</category>
+      <description>얼떨결에 맡아버린 프로젝트</description>
+      <guid isPermaLink="true">https://itcode.dev/en/0002</guid>
+      <link>https://itcode.dev/en/0002</link>
+      <pubDate>Thu, 11 Jul 2019 00:00:00 GMT</pubDate>
+      <title>KInstaller</title>
+    </item>
+    <item>
+      <category>C#</category>
+      <description>생애 첫 프로젝트</description>
+      <guid isPermaLink="true">https://itcode.dev/en/0001</guid>
+      <link>https://itcode.dev/en/0001</link>
+      <pubDate>Sun, 16 Jun 2019 00:00:00 GMT</pubDate>
+      <title>KInstallPacker</title>
+    </item>
+  </channel>
 </rss>
