@@ -1,0 +1,1 @@
+import{_ as e}from"./chunk-D57WHUYC.js";function t(){return e()?.data}export{t};
